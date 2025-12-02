@@ -19,9 +19,9 @@ export default function About() {
           About the School
         </h2>
         <p className="mt-3 text-sm md:text-base max-w-3xl text-slate-100">
-          Goal International School has been established to provide a modern,
+          <span className="text-xl">π</span> International School has been established to provide a modern,
           structured and value-based schooling environment. It combines the
-          academic culture of GOAL Institute with a child-friendly school
+          academic culture of <span className="text-xl">π</span> Institute with a child-friendly school
           atmosphere.
         </p>
 

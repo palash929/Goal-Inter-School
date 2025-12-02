@@ -9,12 +9,12 @@ export default function Navbar() {
     >
       <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <div className="w-9 h-9 rounded-full bg-gradient-to-br from-emerald-500 to-blue-600 text-white flex items-center justify-center text-sm font-bold shadow-sm">
-            GIS
+          <div className="w-10 h-10 rounded-full bg-gradient-to-br from-emerald-500 to-blue-600 text-white flex items-center justify-center text-2xl font-bold shadow-lg">
+            π
           </div>
           <div className="leading-tight">
-            <p className="text-sm font-semibold text-slate-900">
-              Goal International School
+            <p className="text-lg font-semibold text-slate-900">
+              <span className="text-xl">π</span> International School
             </p>
             <p className="text-[11px] text-slate-500">
               Information Brochure

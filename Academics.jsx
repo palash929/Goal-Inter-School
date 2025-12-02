@@ -49,7 +49,7 @@ export default function Academics() {
             </p>
             <p className="text-slate-100 text-[13px]">
               Integration of school syllabus with foundation for NEET / JEE and
-              other competitive exams under guidance of GOAL experts.
+              other competitive exams under guidance of <span className="text-xl">π</span> experts.
             </p>
           </div>
         </div>

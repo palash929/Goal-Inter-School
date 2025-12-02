@@ -19,14 +19,14 @@ export default function Main() {
       <div className="relative max-w-5xl mx-auto px-4 grid md:grid-cols-2 gap-8 items-center text-white">
         {/* Left: main intro */}
         <div>
-          <p className="text-[11px] font-semibold tracking-[0.2em] uppercase text-emerald-300">
-            Goal International School
+          <p className="text-[14px] font-semibold tracking-[0.2em] uppercase text-emerald-300">
+            <span className="text-xl">π</span> International School
           </p>
           <h1 className="mt-3 text-3xl md:text-4xl font-bold leading-snug">
             Information Brochure – A School for Holistic Development
           </h1>
           <p className="mt-3 text-sm text-slate-100/90">
-            Goal International School offers a disciplined, caring and
+            <span className="text-xl">π</span> International School offers a disciplined, caring and
             academically strong environment. The school aims to build concepts,
             character and confidence in every child.
           </p>
@@ -70,7 +70,7 @@ export default function Main() {
           <ul className="mt-3 space-y-1 text-slate-700 list-disc list-inside">
             <li>Concept-based teaching with clear fundamentals</li>
             <li>Focus on discipline, time management and ethics</li>
-            <li>Academic support from GOAL Institute legacy</li>
+            <li>Academic support from <span className="text-xl">π</span> Institute legacy</li>
             <li>Co-curricular and sports activities</li>
           </ul>
           <p className="mt-4 text-[11px] text-slate-500">

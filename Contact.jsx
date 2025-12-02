@@ -42,7 +42,7 @@ export default function Contact() {
                 School Address:
               </span>
               <br />
-              Goal International School,
+              <span className="text-xl">π</span> International School,
               <br />
               B-58, Buddha Colony, Near B.D. Public School,
               <br />
@@ -65,8 +65,8 @@ export default function Contact() {
             </p>
           </div>
 
-          <p className="mt-4 text-[11px] text-slate-300">
-            (These contact details are taken from the official GOAL website.
+          <p className="mt-4 text-[14px] text-slate-300">
+            (These contact details are taken from the official <span className="text-xl">π</span> website.
             Make sure they match the latest brochure.)
           </p>
         </div>
